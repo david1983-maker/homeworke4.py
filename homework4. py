@@ -1,0 +1,13 @@
+my_string=input("Введите имя планеты: ")
+print("Ваша планета: ", my_string .upper())
+symbols=len(my_string) 
+print()rint("Длина введëнного текста  ", symbols, "символов") 
+ 
+ #
+director=input("Введите имя режиссёр: ") 
+print(director.upper()) 
+print(director.lower()) 
+print(director[0])
+print(director[-1])
+print(director.replace(' ', '')) 
+    
